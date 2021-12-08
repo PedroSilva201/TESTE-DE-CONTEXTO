@@ -1,0 +1,37 @@
+body {
+  font-family: calibri;
+  }
+
+  button {
+    margin-left: 10px;
+    }
+    .app {
+    background-color: Thistle;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 4px;
+    }
+    .aa {
+    background-color: LightSkyBlue;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 4px;
+    }
+    .bb {
+    background-color: PaleGreen;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 4px;
+    }
+    .cc {
+    background-color: Wheat;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 4px;
+    }
+    .dd {
+    background-color: LightCyan;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 4px;
+    }
